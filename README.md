@@ -385,3 +385,4 @@ iOS Safari 不提供元素全屏 API，而 `screen.orientation.lock()` 要求先
 ## ⭐ 关于
 
 如果这个项目让你觉得有点意思，欢迎点个 Star，或者在 Issue 里告诉我你在深渊里走到了第几层。
+(AI编写)
