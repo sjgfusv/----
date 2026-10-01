@@ -1,0 +1,13 @@
+{
+  "name": "深渊回廊",
+  "short_name": "深渊回廊",
+  "description": "深渊回廊 —— 文字 roguelike 与 2D 横版实时战斗试炼",
+  "lang": "zh-CN",
+  "start_url": "./主界面.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "landscape",
+  "background_color": "#07070f",
+  "theme_color": "#07070f"
+}
